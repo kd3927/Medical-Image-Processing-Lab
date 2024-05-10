@@ -5,7 +5,7 @@ PIL - reading images
 Matplotlib - displaying images
 
 """
-#imgi = r'C:\Users\Acer\MIPlab\Images\lena_color.tiff'
+#imgi = r'F:\gitHub\Medical-Image-Processing-Lab\Images\lena_color.tiff'
 
 # #Reading images
 import cv2
@@ -54,7 +54,7 @@ import cv2
 
 
 # #Color channel
-imgi = r'C:\Users\Acer\MIPlab\Images\retina.jpg'
+imgi = r'F:\gitHub\Medical-Image-Processing-Lab\Images\retina.jpg'
 
 
 import matplotlib.pyplot as plt
